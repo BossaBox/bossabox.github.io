@@ -63,7 +63,3 @@ The [structure of a sprint](SPRINT-STRUCTURE.md) is a breakdown of the sections 
 
 * [Machine Learning Fundamentals](machine-learning/README.md)
 * [User-Interface Engineering](user-interface-engineering/README.md)
-
-## Contributing
-
-See [CONTRIBUTING.md](https://github.com/microsoft/code-with-engineering-playbook/tree/master/CONTRIBUTING.md) for contribution guidelines.
